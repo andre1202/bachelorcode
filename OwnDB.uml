@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>at.fhv.ale8340.ba2.owndb.OwnDB</OriginalElement>
+  <nodes>
+    <node x="591.2281250000001" y="278.0718750000001">at.fhv.ale8340.ba2.owndb.service.impl.SaveDataService</node>
+    <node x="661.838888888889" y="534.0781250000002">at.fhv.ale8340.ba2.owndb.service.impl.LoadDataService</node>
+    <node x="439.77083333333326" y="436.02343750000017">at.fhv.ale8340.ba2.owndb.service.ISaveDataService</node>
+    <node x="1001.4652777777778" y="22.0">at.fhv.ale8340.ba2.owndb.IOwnDBAPI</node>
+    <node x="1352.4652777777778" y="485.21875">at.fhv.ale8340.ba2.owndb.OwnDBRequestProzess</node>
+    <node x="752.8888888888889" y="458.0234375000001">at.fhv.ale8340.ba2.owndb.OwnDBMain</node>
+    <node x="831.0708333333334" y="231.609375">at.fhv.ale8340.ba2.owndb.OwnDB</node>
+    <node x="439.7708333333333" y="22.0">at.fhv.ale8340.ba2.owndb.service.IloadDataService</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDB" target="at.fhv.ale8340.ba2.owndb.service.IloadDataService" relationship="TO_ONE">
+      <point x="0.0" y="-72.0" />
+      <point x="1108.5708333333334" y="205.0" />
+      <point x="717.2708333333333" y="205.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDB" target="at.fhv.ale8340.ba2.owndb.service.ISaveDataService" relationship="TO_ONE">
+      <point x="0.0" y="-72.0" />
+      <point x="1108.5708333333334" y="184.87124909147545" />
+      <point x="614.7708333333333" y="184.87124909147545" />
+      <point x="70.0" y="39.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.service.IloadDataService" relationship="DEPENDENCY">
+      <point x="-36.5" y="-28.0" />
+      <point x="789.3888888888889" y="422.18263939362475" />
+      <point x="532.2708333333333" y="422.18263939362475" />
+      <point x="-185.0" y="50.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.service.impl.LoadDataService" target="at.fhv.ale8340.ba2.owndb.service.IloadDataService" relationship="REALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="939.338888888889" y="195.0" />
+      <point x="902.2708333333333" y="195.0" />
+      <point x="185.0" y="50.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBRequestProzess" target="at.fhv.ale8340.ba2.owndb.IOwnDBAPI" relationship="TO_ONE">
+      <point x="51.0" y="-61.0" />
+      <point x="1505.4652777777778" y="205.0" />
+      <point x="1463.9652777777778" y="205.0" />
+      <point x="185.0" y="72.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBRequestProzess" target="at.fhv.ale8340.ba2.owndb.IOwnDBAPI" relationship="DEPENDENCY">
+      <point x="-51.0" y="-61.0" />
+      <point x="1403.4652777777778" y="205.0" />
+      <point x="1278.9652777777778" y="205.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.OwnDBRequestProzess" relationship="CREATE">
+      <point x="36.5" y="-28.0" />
+      <point x="862.3888888888889" y="391.0" />
+      <point x="1454.4652777777778" y="391.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDB" target="at.fhv.ale8340.ba2.owndb.service.ISaveDataService" relationship="DEPENDENCY">
+      <point x="-276.76976701578315" y="-47.8398806588101" />
+      <point x="544.7708333333333" y="255.7694943411899" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.service.impl.LoadDataService" relationship="CREATE">
+      <point x="36.5" y="-28.0" />
+      <point x="862.3888888888889" y="391.0" />
+      <point x="939.338888888889" y="391.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDB" target="at.fhv.ale8340.ba2.owndb.IOwnDBAPI" relationship="REALIZATION">
+      <point x="185.0" y="-72.0" />
+      <point x="1293.5708333333334" y="205.0" />
+      <point x="1093.9652777777778" y="205.0" />
+      <point x="-185.0" y="72.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.OwnDB" relationship="CREATE">
+      <point x="36.5" y="-28.0" />
+      <point x="862.3888888888889" y="391.0" />
+      <point x="1108.5708333333334" y="391.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.service.impl.SaveDataService" relationship="CREATE">
+      <point x="36.5" y="-28.0" />
+      <point x="862.3888888888889" y="391.0" />
+      <point x="696.2281250000001" y="391.0" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.service.impl.SaveDataService" target="at.fhv.ale8340.ba2.owndb.service.ISaveDataService" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="696.2281250000001" y="205.0" />
+      <point x="474.77083333333326" y="205.0" />
+      <point x="-70.0" y="39.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDBMain" target="at.fhv.ale8340.ba2.owndb.service.ISaveDataService" relationship="DEPENDENCY">
+      <point x="-36.5" y="-28.0" />
+      <point x="789.3888888888889" y="411.0" />
+      <point x="586.5450628179835" y="411.0" />
+      <point x="586.5450628179835" y="440.7149771895442" />
+      <point x="544.7708333333333" y="440.7149771895442" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="at.fhv.ale8340.ba2.owndb.OwnDB" target="at.fhv.ale8340.ba2.owndb.service.IloadDataService" relationship="DEPENDENCY">
+      <point x="-185.0" y="-72.0" />
+      <point x="843.1301042700418" y="231.609375" />
+      <point x="843.1301042700418" y="180.4832414085702" />
+      <point x="843.1301042700419" y="180.4832414085702" />
+      <point x="125.85927093670864" y="44.43025872343384" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.191364902506964" showDependencies="true" x="1022.4987140519055" y="336.0652326397007" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>public</VISIBILITY>
+</Diagram>
+

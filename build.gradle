@@ -1,0 +1,44 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'at.fhv.ale8340.ba2.main'
+    }
+    from{
+        configurations.extraLibs.collect {it.isDirectory() ? it : zipTree(it)}
+    }
+}
+configurations {
+    extraLibs
+}
+
+dependencies {
+    extraLibs group: 'org.slf4j', name: 'slf4j-api', version: '1.7.36'
+    extraLibs group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.11'
+    extraLibs group: 'ch.qos.logback', name: 'logback-core', version: '1.2.11'
+
+    compileOnly 'org.projectlombok:lombok:1.18.24'
+    // https://mvnrepository.com/artifact/org.postgresql/postgresql
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.5.0'
+
+    // https://mvnrepository.com/artifact/com.influxdb/influxdb-client-java
+    implementation group: 'com.influxdb', name: 'influxdb-client-java', version: '6.7.0'
+
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+
+    configurations.implementation.extendsFrom(configurations.extraLibs)
+}
+
+test {
+    useJUnitPlatform()
+}
