@@ -1,0 +1,32 @@
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+2022-12-01T09:05:53.719537800	0.5651083435544234	0.0	Infinity	0.24989095
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-01T09:05:54.082078	0.0	0.5651083435544234	0.24989095330238342
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-01T09:05:54.104986800	0.0	0.5651083435544234	0.24989095330238342
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-01T09:05:54.105988100	0.0	0.5651083435544234	0.0
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+2022-12-01T09:08:19.238510600	0.33205117307038423	0.0	Infinity	0.25863284
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-01T09:08:19.512829	0.0	0.33205117307038423	0.2586328387260437
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-01T09:08:19.538986	0.0	0.33205117307038423	0.2586328387260437
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-01T09:08:19.538986	0.0	0.33205117307038423	0.0
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+2022-12-01T09:09:22.109247500	0.2975365874790892	0.0	Infinity	0.24535203
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-01T09:09:22.392679300	0.0	0.2975365874790892	0.24535202980041504
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-01T09:09:22.416677600	0.0	0.2975365874790892	0.24535202980041504
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-01T09:09:22.416677600	0.0	0.2975365874790892	0.0
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+2022-12-01T09:09:22.445683600	0.2975365874790892	0.0	Infinity	0.24224013
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-01T09:09:22.946286800	0.0	0.2975365874790892	0.24224013090133667
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-01T09:09:22.946286800	0.0	0.2975365874790892	0.24224013090133667
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-01T09:09:22.946286800	0.0	0.2975365874790892	0.0
