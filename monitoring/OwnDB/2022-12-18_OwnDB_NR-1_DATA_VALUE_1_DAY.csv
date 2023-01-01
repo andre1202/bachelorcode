@@ -1,0 +1,9 @@
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+2022-12-18T17:43:06.160473100	0.07971987583597451	0.0	Infinity	0.18261647
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-18T17:43:07.033614900	0.0	0.07971987583597451	0.1826164722442627
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-18T17:43:07.054452100	0.0	0.07971987583597451	0.1826164722442627
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-18T17:43:07.055463600	0.0	0.07971987583597451	0.0
+startTime	endTime	duration2022-12-18T17:43:05.546293600	2022-12-18T17:43:07.025618800	00:00:01
