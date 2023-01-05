@@ -1,0 +1,8 @@
+time	cpu_load	system_cpu_load	java_cpu_load	memory_load
+time	cpu_load	system_cpu_load	memory_load	 Average
+2022-12-18T03:49:39.094135100	0	0	0
+time	cpu_load	system_cpu_load	memory_load	 Highest
+2022-12-18T03:49:39.094135100	0	0	0
+time	cpu_load	system_cpu_load	memory_load	 Lowest
+2022-12-18T03:49:39.094135100	0	0	0
+startTime	endTime	duration2022-12-18T03:49:39.038142100	2022-12-18T03:49:39.093160500	00:00:00

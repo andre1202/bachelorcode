@@ -1,0 +1,499 @@
+avg	high	low
+OwnDB
+Name:	DATA_VALUE_1_DAY
+Size:	100
+DurationMittel:	0.67831069	 DurationStandardAbweichung	0.19885424220753728
+cpu_load Mittel
+0.02	0.03	0.02
+cpu_load StandardAbweichung
+0.14	0.1705872210923198	0.14
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.02	0.0
+ram_load StandardAbweichung
+0.0	0.14	0.0
+Name:	DATA_VALUE_1_MONTH
+Size:	100
+DurationMittel:	15.647356919999991	 DurationStandardAbweichung	2.6071228488099703
+cpu_load Mittel
+0.02	0.09	0.0
+cpu_load StandardAbweichung
+0.14	0.2861817604250837	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.05	0.0
+ram_load StandardAbweichung
+0.0	0.21794494717703367	0.0
+Name:	DATA_VALUE_1_WEEK
+Size:	100
+DurationMittel:	3.8768150300000013	 DurationStandardAbweichung	0.7333436161822704
+cpu_load Mittel
+0.04	0.08	0.01
+cpu_load StandardAbweichung
+0.19595917942265426	0.2712931993250107	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.04	0.0
+ram_load StandardAbweichung
+0.0	0.19595917942265426	0.0
+Name:	DATA_VALUE_1_YEAR
+Size:	100
+DurationMittel:	195.21557485999995	 DurationStandardAbweichung	28.24379062400338
+cpu_load Mittel
+0.02	1.0	0.0
+cpu_load StandardAbweichung
+0.14	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	SENSORIDS_1_DAY
+Size:	100
+DurationMittel:	0.12639311000000006	 DurationStandardAbweichung	0.03237429007527269
+cpu_load Mittel
+0.01	0.01	0.01
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	SENSORIDS_1_MONTH
+Size:	100
+DurationMittel:	1.7399883200000006	 DurationStandardAbweichung	0.2794147862684035
+cpu_load Mittel
+0.02	0.07	0.0
+cpu_load StandardAbweichung
+0.14	0.2551470164434615	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.06	0.0
+ram_load StandardAbweichung
+0.0	0.23748684174075835	0.0
+Name:	SENSORIDS_1_WEEK
+Size:	100
+DurationMittel:	0.4652526900000001	 DurationStandardAbweichung	0.11183588980677849
+cpu_load Mittel
+0.01	0.01	0.01
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	SENSORIDS_1_YEAR
+Size:	100
+DurationMittel:	18.109059440000006	 DurationStandardAbweichung	3.2571711292776477
+cpu_load Mittel
+0.0	0.09	0.0
+cpu_load StandardAbweichung
+0.0	0.2861817604250837	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.03	0.0
+ram_load StandardAbweichung
+0.0	0.1705872210923198	0.0
+Name:	VALUES_OF_SENSOR_1_DAY
+Size:	100
+DurationMittel:	0.27092958	 DurationStandardAbweichung	0.11756931232300204
+cpu_load Mittel
+0.0	0.0	0.0
+cpu_load StandardAbweichung
+0.0	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	VALUES_OF_SENSOR_1_MONTH
+Size:	100
+DurationMittel:	4.228765040000001	 DurationStandardAbweichung	0.6154433060387434
+cpu_load Mittel
+0.03	0.07	0.02
+cpu_load StandardAbweichung
+0.1705872210923198	0.2551470164434615	0.14
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.04	0.0
+ram_load StandardAbweichung
+0.0	0.19595917942265426	0.0
+Name:	VALUES_OF_SENSOR_1_WEEK
+Size:	100
+DurationMittel:	0.9604458899999997	 DurationStandardAbweichung	0.1956340565113802
+cpu_load Mittel
+0.01	0.04	0.01
+cpu_load StandardAbweichung
+0.099498743710662	0.19595917942265426	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	VALUES_OF_SENSOR_1_YEAR
+Size:	100
+DurationMittel:	36.11344277000001	 DurationStandardAbweichung	4.315209522385329
+cpu_load Mittel
+0.02	0.89	0.0
+cpu_load StandardAbweichung
+0.14	0.31288975694324034	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.03	0.0
+ram_load StandardAbweichung
+0.0	0.1705872210923198	0.0
+TimescaleDB
+Name:	DATA_VALUE_1_DAY
+Size:	100
+DurationMittel:	0.10712569999999996	 DurationStandardAbweichung	0.0845120720766566
+cpu_load Mittel
+0.96	0.96	0.96
+cpu_load StandardAbweichung
+0.19595917942265426	0.19595917942265426	0.19595917942265426
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.96	0.0
+ram_load StandardAbweichung
+0.0	0.19595917942265426	0.0
+Name:	DATA_VALUE_1_MONTH
+Size:	100
+DurationMittel:	1.13069115	 DurationStandardAbweichung	0.12994658728257355
+cpu_load Mittel
+0.02	0.03	0.0
+cpu_load StandardAbweichung
+0.14	0.1705872210923198	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.03	0.0
+ram_load StandardAbweichung
+0.0	0.1705872210923198	0.0
+Name:	DATA_VALUE_1_WEEK
+Size:	100
+DurationMittel:	0.36223288	 DurationStandardAbweichung	0.06353267400625917
+cpu_load Mittel
+0.87	0.87	0.87
+cpu_load StandardAbweichung
+0.33630343441600474	0.33630343441600474	0.33630343441600474
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.87	0.0
+ram_load StandardAbweichung
+0.0	0.33630343441600474	0.0
+Name:	DATA_VALUE_1_YEAR
+Size:	100
+DurationMittel:	14.136312669999993	 DurationStandardAbweichung	1.4320036516948695
+cpu_load Mittel
+0.03	0.25	0.0
+cpu_load StandardAbweichung
+0.1705872210923198	0.4330127018922193	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	SENSORIDS_1_DAY
+Size:	100
+DurationMittel:	0.12113881000000003	 DurationStandardAbweichung	0.04308623328899731
+cpu_load Mittel
+0.22	0.22	0.22
+cpu_load StandardAbweichung
+0.4142463035441596	0.4142463035441596	0.4142463035441596
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.22	0.0
+ram_load StandardAbweichung
+0.0	0.4142463035441596	0.0
+Name:	SENSORIDS_1_MONTH
+Size:	100
+DurationMittel:	0.38551850000000015	 DurationStandardAbweichung	0.08498504677900695
+cpu_load Mittel
+0.21	0.21	0.21
+cpu_load StandardAbweichung
+0.40730823708832603	0.40730823708832603	0.40730823708832603
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.21	0.0
+ram_load StandardAbweichung
+0.0	0.40730823708832603	0.0
+Name:	SENSORIDS_1_WEEK
+Size:	100
+DurationMittel:	0.19747682999999994	 DurationStandardAbweichung	0.04933644540865404
+cpu_load Mittel
+0.2	0.2	0.2
+cpu_load StandardAbweichung
+0.4	0.4	0.4
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.2	0.0
+ram_load StandardAbweichung
+0.0	0.4	0.0
+Name:	SENSORIDS_1_YEAR
+Size:	100
+DurationMittel:	2.0231523	 DurationStandardAbweichung	0.22022223793370643
+cpu_load Mittel
+0.64	1.0	0.48
+cpu_load StandardAbweichung
+0.48	0.0	0.49959983987187184
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.48	0.0
+ram_load StandardAbweichung
+0.0	0.49959983987187184	0.0
+Name:	VALUES_OF_SENSOR_1_DAY
+Size:	100
+DurationMittel:	0.07166654000000001	 DurationStandardAbweichung	0.04367427731592591
+cpu_load Mittel
+0.99	0.99	0.99
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.99	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	VALUES_OF_SENSOR_1_MONTH
+Size:	100
+DurationMittel:	0.05212654000000001	 DurationStandardAbweichung	0.027185979979548282
+cpu_load Mittel
+0.99	0.99	0.99
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.99	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	VALUES_OF_SENSOR_1_WEEK
+Size:	100
+DurationMittel:	0.055336599999999986	 DurationStandardAbweichung	0.032981156404225734
+cpu_load Mittel
+0.99	0.99	0.99
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.99	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	VALUES_OF_SENSOR_1_YEAR
+Size:	100
+DurationMittel:	0.05077525000000002	 DurationStandardAbweichung	0.023205156149172967
+cpu_load Mittel
+0.99	0.99	0.99
+cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.99	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+InfluxDB
+Name:	DATA_VALUE_1_DAY
+Size:	100
+DurationMittel:	0.32109923	 DurationStandardAbweichung	0.11142993180019944
+cpu_load Mittel
+0.0	0.01	0.0
+cpu_load StandardAbweichung
+0.0	0.099498743710662	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.01	0.0
+ram_load StandardAbweichung
+0.0	0.099498743710662	0.0
+Name:	DATA_VALUE_1_MONTH
+Size:	100
+DurationMittel:	11.641820580000001	 DurationStandardAbweichung	0.7513346423773788
+cpu_load Mittel
+0.0	0.08	0.0
+cpu_load StandardAbweichung
+0.0	0.2712931993250107	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	DATA_VALUE_1_WEEK
+Size:	100
+DurationMittel:	2.2547744200000004	 DurationStandardAbweichung	0.1222592527244609
+cpu_load Mittel
+0.0	0.0	0.0
+cpu_load StandardAbweichung
+0.0	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	SENSORIDS_1_DAY
+Size:	100
+DurationMittel:	0.012403149999999998	 DurationStandardAbweichung	0.0028249239118071836
+cpu_load Mittel
+0.0	0.0	0.0
+cpu_load StandardAbweichung
+0.0	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	SENSORIDS_1_MONTH
+Size:	100
+DurationMittel:	0.06526996000000002	 DurationStandardAbweichung	0.011619420707522385
+cpu_load Mittel
+0.0	0.0	0.0
+cpu_load StandardAbweichung
+0.0	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	SENSORIDS_1_WEEK
+Size:	100
+DurationMittel:	0.02088363	 DurationStandardAbweichung	0.005302361891940232
+cpu_load Mittel
+0.0	0.0	0.0
+cpu_load StandardAbweichung
+0.0	0.0	0.0
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.0	0.0
+ram_load StandardAbweichung
+0.0	0.0	0.0
+Name:	VALUES_OF_SENSOR_1_DAY
+Size:	100
+DurationMittel:	0.07622526	 DurationStandardAbweichung	0.01543552329117481
+cpu_load Mittel
+0.02	0.02	0.02
+cpu_load StandardAbweichung
+0.14	0.14	0.14
+system_cpu_load Mittel
+0.0	0.0	0.0
+system_cpu_load StandardAbweichung
+0.0	0.0	0.0
+ram_load Mittel
+0.0	0.02	0.0
+ram_load StandardAbweichung
+0.0	0.14	0.0
+Name:	VALUES_OF_SENSOR_1_MONTH
+Size:	100
+DurationMittel:	1.73565084	 DurationStandardAbweichung	0.12105086911854207
+cpu_load Mittel
+0.0	0.04	0.0
+cpu_load StandardAbweichung
+0.0	0.19595917942265426	0.0
+system_cpu_load Mittel
+0.0	0.01	0.0
+system_cpu_load StandardAbweichung
+0.0	0.099498743710662	0.0
+ram_load Mittel
+0.0	0.04	0.0
+ram_load StandardAbweichung
+0.0	0.19595917942265426	0.0
+Name:	VALUES_OF_SENSOR_1_WEEK
+Size:	100
+DurationMittel:	0.3728135999999999	 DurationStandardAbweichung	0.058636612947884366
+cpu_load Mittel
+0.03	0.03	0.03
+cpu_load StandardAbweichung
+0.1705872210923198	0.1705872210923198	0.1705872210923198
+system_cpu_load Mittel
+0.01	0.01	0.01
+system_cpu_load StandardAbweichung
+0.099498743710662	0.099498743710662	0.099498743710662
+ram_load Mittel
+0.0	0.03	0.0
+ram_load StandardAbweichung
+0.0	0.1705872210923198	0.0

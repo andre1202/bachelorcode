@@ -1,0 +1,70 @@
+avg	high	low
+OwnDB
+Name:	DATA_VALUE_1_DAY
+DurationMittel:	0.6783	 DurationStandardAbweichung	0.1989
+Name:	DATA_VALUE_1_MONTH
+DurationMittel:	15.6474	 DurationStandardAbweichung	2.6071
+Name:	DATA_VALUE_1_WEEK
+DurationMittel:	3.8768	 DurationStandardAbweichung	0.7333
+Name:	DATA_VALUE_1_YEAR
+DurationMittel:	195.2156	 DurationStandardAbweichung	28.2438
+Name:	SENSORIDS_1_DAY
+DurationMittel:	0.1264	 DurationStandardAbweichung	0.0324
+Name:	SENSORIDS_1_MONTH
+DurationMittel:	1.74	 DurationStandardAbweichung	0.2794
+Name:	SENSORIDS_1_WEEK
+DurationMittel:	0.4653	 DurationStandardAbweichung	0.1118
+Name:	SENSORIDS_1_YEAR
+DurationMittel:	18.1091	 DurationStandardAbweichung	3.2572
+Name:	VALUES_OF_SENSOR_1_DAY
+DurationMittel:	0.2709	 DurationStandardAbweichung	0.1176
+Name:	VALUES_OF_SENSOR_1_MONTH
+DurationMittel:	4.2288	 DurationStandardAbweichung	0.6154
+Name:	VALUES_OF_SENSOR_1_WEEK
+DurationMittel:	0.9604	 DurationStandardAbweichung	0.1956
+Name:	VALUES_OF_SENSOR_1_YEAR
+DurationMittel:	36.1134	 DurationStandardAbweichung	4.3152
+TimescaleDB
+Name:	DATA_VALUE_1_DAY
+DurationMittel:	0.1071	 DurationStandardAbweichung	0.0845
+Name:	DATA_VALUE_1_MONTH
+DurationMittel:	1.1307	 DurationStandardAbweichung	0.1299
+Name:	DATA_VALUE_1_WEEK
+DurationMittel:	0.3622	 DurationStandardAbweichung	0.0635
+Name:	DATA_VALUE_1_YEAR
+DurationMittel:	14.1363	 DurationStandardAbweichung	1.432
+Name:	SENSORIDS_1_DAY
+DurationMittel:	0.1211	 DurationStandardAbweichung	0.0431
+Name:	SENSORIDS_1_MONTH
+DurationMittel:	0.3855	 DurationStandardAbweichung	0.085
+Name:	SENSORIDS_1_WEEK
+DurationMittel:	0.1975	 DurationStandardAbweichung	0.0493
+Name:	SENSORIDS_1_YEAR
+DurationMittel:	2.0232	 DurationStandardAbweichung	0.2202
+Name:	VALUES_OF_SENSOR_1_DAY
+DurationMittel:	0.0717	 DurationStandardAbweichung	0.0437
+Name:	VALUES_OF_SENSOR_1_MONTH
+DurationMittel:	0.0521	 DurationStandardAbweichung	0.0272
+Name:	VALUES_OF_SENSOR_1_WEEK
+DurationMittel:	0.0553	 DurationStandardAbweichung	0.033
+Name:	VALUES_OF_SENSOR_1_YEAR
+DurationMittel:	0.0508	 DurationStandardAbweichung	0.0232
+InfluxDB
+Name:	DATA_VALUE_1_DAY
+DurationMittel:	0.3211	 DurationStandardAbweichung	0.1114
+Name:	DATA_VALUE_1_MONTH
+DurationMittel:	11.6418	 DurationStandardAbweichung	0.7513
+Name:	DATA_VALUE_1_WEEK
+DurationMittel:	2.2548	 DurationStandardAbweichung	0.1223
+Name:	SENSORIDS_1_DAY
+DurationMittel:	0.0124	 DurationStandardAbweichung	0.0028
+Name:	SENSORIDS_1_MONTH
+DurationMittel:	0.0653	 DurationStandardAbweichung	0.0116
+Name:	SENSORIDS_1_WEEK
+DurationMittel:	0.0209	 DurationStandardAbweichung	0.0053
+Name:	VALUES_OF_SENSOR_1_DAY
+DurationMittel:	0.0762	 DurationStandardAbweichung	0.0154
+Name:	VALUES_OF_SENSOR_1_MONTH
+DurationMittel:	1.7357	 DurationStandardAbweichung	0.121
+Name:	VALUES_OF_SENSOR_1_WEEK
+DurationMittel:	0.3728	 DurationStandardAbweichung	0.0586
